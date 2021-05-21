@@ -1,0 +1,273 @@
+[03-Mar-2021 01:20:26 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home3/smartlb1/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/bluehost/endurance-wp-plugin-updater/Updater.php on line 89
+[03-Mar-2021 01:20:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\Jetpack\Connection\Tokens' not found in /home3/smartlb1/public_html/wp-content/plugins/jetpack/vendor/automattic/jetpack-connection/src/class-client.php:75
+Stack trace:
+#0 /home3/smartlb1/public_html/wp-content/plugins/jetpack/vendor/automattic/jetpack-connection/src/class-client.php(26): Automattic\Jetpack\Connection\Client::build_signed_request(Array, '<?xml version="...')
+#1 /home3/smartlb1/public_html/wp-content/plugins/jetpack/vendor/automattic/jetpack-connection/legacy/class-jetpack-ixr-client.php(70): Automattic\Jetpack\Connection\Client::remote_request(Array, '<?xml version="...')
+#2 /home3/smartlb1/public_html/wp-content/plugins/jetpack/vendor/automattic/jetpack-sync/src/class-actions.php(409): Jetpack_IXR_Client->query('jetpack.syncAct...', Array)
+#3 /home3/smartlb1/public_html/wp-includes/class-wp-hook.php(287): Automattic\Jetpack\Sync\Actions::send_data(Array, 'deflate-json-ar...', 1614734427.0081, 'sync', 0.0050041675567627, 0.0096421241760254, 36, '603ee45af29df in /home3/smartlb1/public_html/wp-content/plugins/jetpack/vendor/automattic/jetpack-connection/src/class-client.php on line 75
+[04-Mar-2021 00:47:08 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home3/smartlb1/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/bluehost/endurance-wp-plugin-updater/Updater.php on line 89
+[04-Mar-2021 22:33:40 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home3/smartlb1/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/bluehost/endurance-wp-plugin-updater/Updater.php on line 89
+[16-Mar-2021 09:14:28 America/Boise] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING), expecting ';' or ',' in /home3/smartlb1/public_html/contact_mail.php on line 21
+[16-Mar-2021 09:14:38 America/Boise] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING), expecting ';' or ',' in /home3/smartlb1/public_html/contact_mail.php on line 21
+[16-Mar-2021 09:15:37 America/Boise] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING), expecting ';' or ',' in /home3/smartlb1/public_html/contact_mail.php on line 21
+[17-Mar-2021 09:30:29 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/career_mail.php:1) in /home3/smartlb1/public_html/career_mail.php on line 25
+[17-Mar-2021 09:30:54 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/contact_mail.php:1) in /home3/smartlb1/public_html/contact_mail.php on line 21
+[17-Mar-2021 09:31:42 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/contact_mail.php:1) in /home3/smartlb1/public_html/contact_mail.php on line 21
+[17-Mar-2021 09:32:15 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/contact_mail.php:1) in /home3/smartlb1/public_html/contact_mail.php on line 21
+[17-Mar-2021 09:32:54 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/contact_mail.php:1) in /home3/smartlb1/public_html/contact_mail.php on line 21
+[17-Mar-2021 09:34:16 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/contact_mail.php:1) in /home3/smartlb1/public_html/contact_mail.php on line 21
+[17-Mar-2021 09:35:36 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/contact_mail.php:1) in /home3/smartlb1/public_html/contact_mail.php on line 23
+[17-Mar-2021 09:35:52 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/contact_mail.php:1) in /home3/smartlb1/public_html/contact_mail.php on line 23
+[17-Mar-2021 09:36:44 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/contact_mail.php:1) in /home3/smartlb1/public_html/contact_mail.php on line 22
+[17-Mar-2021 09:37:26 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/contact_mail.php:1) in /home3/smartlb1/public_html/contact_mail.php on line 23
+[17-Mar-2021 09:51:20 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/career_mail.php:1) in /home3/smartlb1/public_html/career_mail.php on line 24
+[17-Mar-2021 09:51:49 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/contact_mail.php:1) in /home3/smartlb1/public_html/contact_mail.php on line 22
+[18-Mar-2021 04:44:35 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/contact_mail.php:1) in /home3/smartlb1/public_html/contact_mail.php on line 22
+[18-Mar-2021 05:04:01 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/contact_mail.php:1) in /home3/smartlb1/public_html/contact_mail.php on line 23
+[18-Mar-2021 05:04:06 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/contact_mail.php:1) in /home3/smartlb1/public_html/contact_mail.php on line 23
+[18-Mar-2021 05:04:11 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/contact_mail.php:1) in /home3/smartlb1/public_html/contact_mail.php on line 23
+[18-Mar-2021 05:04:28 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/contact_mail.php:1) in /home3/smartlb1/public_html/contact_mail.php on line 23
+[18-Mar-2021 05:14:26 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/contact_mail.php:1) in /home3/smartlb1/public_html/contact_mail.php on line 26
+[18-Mar-2021 05:14:45 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/contact_mail.php:1) in /home3/smartlb1/public_html/contact_mail.php on line 26
+[18-Mar-2021 05:24:53 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/contact_mail.php:1) in /home3/smartlb1/public_html/contact_mail.php on line 26
+[18-Mar-2021 05:26:25 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/contact_mail.php:1) in /home3/smartlb1/public_html/contact_mail.php on line 26
+[18-Mar-2021 06:03:50 America/Boise] PHP Parse error:  syntax error, unexpected '.', expecting identifier (T_STRING) or function (T_FUNCTION) or const (T_CONST) or \\ (T_NS_SEPARATOR) in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 06:04:07 America/Boise] PHP Parse error:  syntax error, unexpected '.', expecting identifier (T_STRING) or function (T_FUNCTION) or const (T_CONST) or \\ (T_NS_SEPARATOR) in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 06:05:23 America/Boise] PHP Parse error:  syntax error, unexpected '.', expecting identifier (T_STRING) or function (T_FUNCTION) or const (T_CONST) or \\ (T_NS_SEPARATOR) in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 06:13:39 America/Boise] PHP Warning:  require(C:\xampp\htdocs\smartlabs\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 7
+[18-Mar-2021 06:13:39 America/Boise] PHP Warning:  require(C:\xampp\htdocs\smartlabs\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 7
+[18-Mar-2021 06:13:39 America/Boise] PHP Fatal error:  require(): Failed opening required 'C:\xampp\htdocs\smartlabs\lib\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/smartlb1/public_html/career_mail.php on line 7
+[18-Mar-2021 06:13:53 America/Boise] PHP Warning:  require(C:\xampp\htdocs\smartlabs\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 7
+[18-Mar-2021 06:13:53 America/Boise] PHP Warning:  require(C:\xampp\htdocs\smartlabs\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 7
+[18-Mar-2021 06:13:53 America/Boise] PHP Fatal error:  require(): Failed opening required 'C:\xampp\htdocs\smartlabs\lib\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/smartlb1/public_html/career_mail.php on line 7
+[18-Mar-2021 06:45:41 America/Boise] PHP Warning:  require(.\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 06:45:41 America/Boise] PHP Warning:  require(.\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 06:45:41 America/Boise] PHP Fatal error:  require(): Failed opening required '.\lib\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 06:47:16 America/Boise] PHP Warning:  require(.\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 06:47:16 America/Boise] PHP Warning:  require(.\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 06:47:16 America/Boise] PHP Fatal error:  require(): Failed opening required '.\lib\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 07:03:15 America/Boise] PHP Warning:  require(.\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 07:03:15 America/Boise] PHP Warning:  require(.\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 07:03:15 America/Boise] PHP Fatal error:  require(): Failed opening required '.\lib\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 07:04:53 America/Boise] PHP Warning:  require(.\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 07:04:53 America/Boise] PHP Warning:  require(.\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 07:04:53 America/Boise] PHP Fatal error:  require(): Failed opening required '.\lib\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 07:12:14 America/Boise] PHP Warning:  require(.\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 07:12:14 America/Boise] PHP Warning:  require(.\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 07:12:14 America/Boise] PHP Fatal error:  require(): Failed opening required '.\lib\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 07:12:28 America/Boise] PHP Warning:  require(.\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 07:12:28 America/Boise] PHP Warning:  require(.\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 07:12:28 America/Boise] PHP Fatal error:  require(): Failed opening required '.\lib\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 07:14:09 America/Boise] PHP Warning:  require(.\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 07:14:09 America/Boise] PHP Warning:  require(.\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 07:14:09 America/Boise] PHP Fatal error:  require(): Failed opening required '.\lib\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 07:19:42 America/Boise] PHP Warning:  require(.\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 07:19:42 America/Boise] PHP Warning:  require(.\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 07:19:42 America/Boise] PHP Fatal error:  require(): Failed opening required '.\lib\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 07:24:31 America/Boise] PHP Warning:  require(\home3\smartlb1\public_html\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 07:24:31 America/Boise] PHP Warning:  require(\home3\smartlb1\public_html\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 07:24:31 America/Boise] PHP Fatal error:  require(): Failed opening required '\home3\smartlb1\public_html\lib\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/smartlb1/public_html/career_mail.php on line 4
+[18-Mar-2021 07:26:56 America/Boise] PHP Warning:  require(\home3\smartlb1\public_html\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 10
+[18-Mar-2021 07:26:56 America/Boise] PHP Warning:  require(\home3\smartlb1\public_html\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 10
+[18-Mar-2021 07:26:56 America/Boise] PHP Fatal error:  require(): Failed opening required '\home3\smartlb1\public_html\lib\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/smartlb1/public_html/career_mail.php on line 10
+[18-Mar-2021 07:27:05 America/Boise] PHP Warning:  require(\home3\smartlb1\public_html\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 10
+[18-Mar-2021 07:27:05 America/Boise] PHP Warning:  require(\home3\smartlb1\public_html\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 10
+[18-Mar-2021 07:27:05 America/Boise] PHP Fatal error:  require(): Failed opening required '\home3\smartlb1\public_html\lib\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/smartlb1/public_html/career_mail.php on line 10
+[18-Mar-2021 07:27:12 America/Boise] PHP Warning:  require(\home3\smartlb1\public_html\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 10
+[18-Mar-2021 07:27:12 America/Boise] PHP Warning:  require(\home3\smartlb1\public_html\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 10
+[18-Mar-2021 07:27:12 America/Boise] PHP Fatal error:  require(): Failed opening required '\home3\smartlb1\public_html\lib\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/smartlb1/public_html/career_mail.php on line 10
+[18-Mar-2021 07:27:50 America/Boise] PHP Warning:  require(\home3\smartlb1\public_html\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 11
+[18-Mar-2021 07:27:50 America/Boise] PHP Warning:  require(\home3\smartlb1\public_html\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 11
+[18-Mar-2021 07:27:50 America/Boise] PHP Fatal error:  require(): Failed opening required '\home3\smartlb1\public_html\lib\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/smartlb1/public_html/career_mail.php on line 11
+[18-Mar-2021 07:28:42 America/Boise] PHP Warning:  require(\home3\smartlb1\public_html\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 11
+[18-Mar-2021 07:28:42 America/Boise] PHP Warning:  require(\home3\smartlb1\public_html\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 11
+[18-Mar-2021 07:28:42 America/Boise] PHP Fatal error:  require(): Failed opening required '\home3\smartlb1\public_html\lib\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/smartlb1/public_html/career_mail.php on line 11
+[18-Mar-2021 07:29:30 America/Boise] PHP Warning:  require(\home3\smartlb1\public_html\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 13
+[18-Mar-2021 07:29:30 America/Boise] PHP Warning:  require(\home3\smartlb1\public_html\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 13
+[18-Mar-2021 07:29:30 America/Boise] PHP Fatal error:  require(): Failed opening required '\home3\smartlb1\public_html\lib\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/smartlb1/public_html/career_mail.php on line 13
+[18-Mar-2021 07:29:56 America/Boise] PHP Warning:  require(\home3\smartlb1\public_html\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 13
+[18-Mar-2021 07:29:56 America/Boise] PHP Warning:  require(\home3\smartlb1\public_html\lib\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 13
+[18-Mar-2021 07:29:56 America/Boise] PHP Fatal error:  require(): Failed opening required '\home3\smartlb1\public_html\lib\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/smartlb1/public_html/career_mail.php on line 13
+[18-Mar-2021 07:38:18 America/Boise] PHP Fatal error:  Cannot use lib\PHPMailer\PHPMailer\PHPMailer as PHPMailer because the name is already in use in /home3/smartlb1/public_html/career_mail.php on line 24
+[18-Mar-2021 07:40:30 America/Boise] PHP Fatal error:  Cannot use lib\PHPMailer\PHPMailer\PHPMailer as PHPMailer because the name is already in use in /home3/smartlb1/public_html/career_mail.php on line 24
+[18-Mar-2021 07:40:52 America/Boise] PHP Fatal error:  Cannot use lib\PHPMailer\PHPMailer\PHPMailer as PHPMailer because the name is already in use in /home3/smartlb1/public_html/career_mail.php on line 24
+[18-Mar-2021 07:43:09 America/Boise] PHP Fatal error:  Cannot use lib\PHPMailer\PHPMailer\PHPMailer as PHPMailer because the name is already in use in /home3/smartlb1/public_html/career_mail.php on line 24
+[18-Mar-2021 07:44:27 America/Boise] PHP Fatal error:  Cannot use lib\PHPMailer\PHPMailer\PHPMailer as PHPMailer because the name is already in use in /home3/smartlb1/public_html/career_mail.php on line 24
+[18-Mar-2021 07:45:09 America/Boise] PHP Fatal error:  Cannot use lib\PHPMailer\PHPMailer\PHPMailer as PHPMailer because the name is already in use in /home3/smartlb1/public_html/career_mail.php on line 24
+[18-Mar-2021 07:45:33 America/Boise] PHP Fatal error:  Cannot use lib\PHPMailer\PHPMailer\PHPMailer as PHPMailer because the name is already in use in /home3/smartlb1/public_html/career_mail.php on line 24
+[18-Mar-2021 07:47:01 America/Boise] PHP Warning:  require(src/Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 24
+[18-Mar-2021 07:47:01 America/Boise] PHP Warning:  require(src/Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 24
+[18-Mar-2021 07:47:01 America/Boise] PHP Fatal error:  require(): Failed opening required 'src/Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/smartlb1/public_html/career_mail.php on line 24
+[18-Mar-2021 07:48:02 America/Boise] PHP Warning:  require(src/Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 24
+[18-Mar-2021 07:48:02 America/Boise] PHP Warning:  require(src/Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 24
+[18-Mar-2021 07:48:02 America/Boise] PHP Fatal error:  require(): Failed opening required 'src/Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/smartlb1/public_html/career_mail.php on line 24
+[18-Mar-2021 07:52:24 America/Boise] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home3/smartlb1/public_html/career_mail.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/smartlb1/public_html/career_mail.php on line 28
+[18-Mar-2021 08:00:37 America/Boise] PHP Fatal error:  Uncaught Error: Class 'lib\PHPMailer\PHPMailer\PHPMailer' not found in /home3/smartlb1/public_html/career_mail.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/smartlb1/public_html/career_mail.php on line 28
+[18-Mar-2021 08:01:05 America/Boise] PHP Fatal error:  Uncaught Error: Class 'lib\PHPMailer\PHPMailer\PHPMailer' not found in /home3/smartlb1/public_html/career_mail.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/smartlb1/public_html/career_mail.php on line 28
+[18-Mar-2021 08:13:11 America/Boise] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home3/smartlb1/public_html/career_mail.php:55
+Stack trace:
+#0 {main}
+  thrown in /home3/smartlb1/public_html/career_mail.php on line 55
+[19-Mar-2021 06:48:58 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home3/smartlb1/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/bluehost/endurance-wp-plugin-updater/Updater.php on line 89
+[20-Mar-2021 05:03:57 America/Boise] PHP Warning:  require_once(/home3/smartlb1/public_html/vendor/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/career_mail.php on line 13
+[20-Mar-2021 05:03:57 America/Boise] PHP Fatal error:  require_once(): Failed opening required '/home3/smartlb1/public_html/vendor/phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/smartlb1/public_html/career_mail.php on line 13
+[20-Mar-2021 05:29:40 America/Boise] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home3/smartlb1/public_html/lib/PHPMailer/src/PHPMailer.php:2131
+Stack trace:
+#0 /home3/smartlb1/public_html/lib/PHPMailer/src/PHPMailer.php(1942): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home3/smartlb1/public_html/lib/PHPMailer/src/PHPMailer.php(1631): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sat, 20 M...', 'This is a multi...')
+#2 /home3/smartlb1/public_html/lib/PHPMailer/src/PHPMailer.php(1464): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home3/smartlb1/public_html/career_mail.php(43): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home3/smartlb1/public_html/lib/PHPMailer/src/PHPMailer.php on line 2131
+[20-Mar-2021 05:42:16 America/Boise] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Could not access file: ../img/about/Product 3.png in /home3/smartlb1/public_html/lib/PHPMailer/src/PHPMailer.php:3056
+Stack trace:
+#0 /home3/smartlb1/public_html/career_mail.php(45): PHPMailer\PHPMailer\PHPMailer->addAttachment('../img/about/Pr...', 'image 1')
+#1 {main}
+  thrown in /home3/smartlb1/public_html/lib/PHPMailer/src/PHPMailer.php on line 3056
+[20-Mar-2021 05:42:55 America/Boise] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Could not access file: /img/about/Product 3.png in /home3/smartlb1/public_html/lib/PHPMailer/src/PHPMailer.php:3056
+Stack trace:
+#0 /home3/smartlb1/public_html/career_mail.php(45): PHPMailer\PHPMailer\PHPMailer->addAttachment('/img/about/Prod...', 'image 1')
+#1 {main}
+  thrown in /home3/smartlb1/public_html/lib/PHPMailer/src/PHPMailer.php on line 3056
+[20-Mar-2021 05:43:35 America/Boise] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Could not access file: Product 3.png in /home3/smartlb1/public_html/lib/PHPMailer/src/PHPMailer.php:3056
+Stack trace:
+#0 /home3/smartlb1/public_html/career_mail.php(45): PHPMailer\PHPMailer\PHPMailer->addAttachment('Product 3.png', 'image 1')
+#1 {main}
+  thrown in /home3/smartlb1/public_html/lib/PHPMailer/src/PHPMailer.php on line 3056
+[20-Mar-2021 05:45:38 America/Boise] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Could not access file: /tmp/image.jpg in /home3/smartlb1/public_html/lib/PHPMailer/src/PHPMailer.php:3056
+Stack trace:
+#0 /home3/smartlb1/public_html/career_mail.php(46): PHPMailer\PHPMailer\PHPMailer->addAttachment('/tmp/image.jpg', 'new.jpg')
+#1 {main}
+  thrown in /home3/smartlb1/public_html/lib/PHPMailer/src/PHPMailer.php on line 3056
+[20-Mar-2021 05:58:22 America/Boise] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/smartlb1/public_html/career_mail.php on line 52
+[20-Mar-2021 05:59:22 America/Boise] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/smartlb1/public_html/career_mail.php on line 52
+[20-Mar-2021 05:59:54 America/Boise] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/smartlb1/public_html/career_mail.php on line 52
+[20-Mar-2021 06:00:35 America/Boise] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/smartlb1/public_html/career_mail.php on line 52
+[20-Mar-2021 06:01:26 America/Boise] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/smartlb1/public_html/career_mail.php on line 52
+[20-Mar-2021 06:56:08 America/Boise] PHP Warning:  Creating default object from empty value in /home3/smartlb1/public_html/mail_config.php on line 3
+[20-Mar-2021 06:56:08 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::setFrom() in /home3/smartlb1/public_html/mail_config.php:7
+Stack trace:
+#0 /home3/smartlb1/public_html/career_mail.php(17): include()
+#1 {main}
+  thrown in /home3/smartlb1/public_html/mail_config.php on line 7
+[20-Mar-2021 06:56:21 America/Boise] PHP Warning:  Creating default object from empty value in /home3/smartlb1/public_html/mail_config.php on line 3
+[20-Mar-2021 06:56:21 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::setFrom() in /home3/smartlb1/public_html/mail_config.php:7
+Stack trace:
+#0 /home3/smartlb1/public_html/career_mail.php(17): include()
+#1 {main}
+  thrown in /home3/smartlb1/public_html/mail_config.php on line 7
+[20-Mar-2021 06:57:15 America/Boise] PHP Warning:  Creating default object from empty value in /home3/smartlb1/public_html/mail_config.php on line 3
+[20-Mar-2021 06:57:15 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::setFrom() in /home3/smartlb1/public_html/mail_config.php:7
+Stack trace:
+#0 /home3/smartlb1/public_html/career_mail.php(17): require()
+#1 {main}
+  thrown in /home3/smartlb1/public_html/mail_config.php on line 7
+[20-Mar-2021 06:59:04 America/Boise] PHP Warning:  Creating default object from empty value in /home3/smartlb1/public_html/mail_config.php on line 3
+[20-Mar-2021 06:59:04 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::setFrom() in /home3/smartlb1/public_html/mail_config.php:7
+Stack trace:
+#0 /home3/smartlb1/public_html/career_mail.php(17): require()
+#1 {main}
+  thrown in /home3/smartlb1/public_html/mail_config.php on line 7
+[20-Mar-2021 07:00:59 America/Boise] PHP Warning:  Creating default object from empty value in /home3/smartlb1/public_html/mail_config.php on line 3
+[20-Mar-2021 07:00:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::setFrom() in /home3/smartlb1/public_html/mail_config.php:7
+Stack trace:
+#0 /home3/smartlb1/public_html/career_mail.php(17): include()
+#1 {main}
+  thrown in /home3/smartlb1/public_html/mail_config.php on line 7
+[20-Mar-2021 07:03:08 America/Boise] PHP Warning:  Creating default object from empty value in /home3/smartlb1/public_html/mail_config.php on line 5
+[20-Mar-2021 07:03:08 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::setFrom() in /home3/smartlb1/public_html/mail_config.php:9
+Stack trace:
+#0 /home3/smartlb1/public_html/career_mail.php(17): include()
+#1 {main}
+  thrown in /home3/smartlb1/public_html/mail_config.php on line 9
+[20-Mar-2021 07:05:53 America/Boise] PHP Warning:  Creating default object from empty value in /home3/smartlb1/public_html/mail_config.php on line 3
+[20-Mar-2021 07:05:53 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::setFrom() in /home3/smartlb1/public_html/mail_config.php:7
+Stack trace:
+#0 /home3/smartlb1/public_html/career_mail.php(17): include()
+#1 {main}
+  thrown in /home3/smartlb1/public_html/mail_config.php on line 7
+[20-Mar-2021 07:05:59 America/Boise] PHP Warning:  Creating default object from empty value in /home3/smartlb1/public_html/mail_config.php on line 3
+[20-Mar-2021 07:05:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::setFrom() in /home3/smartlb1/public_html/mail_config.php:7
+Stack trace:
+#0 /home3/smartlb1/public_html/career_mail.php(17): include()
+#1 {main}
+  thrown in /home3/smartlb1/public_html/mail_config.php on line 7
+[20-Mar-2021 07:14:13 America/Boise] PHP Warning:  Creating default object from empty value in /home3/smartlb1/public_html/mail_config.php on line 3
+[20-Mar-2021 07:14:13 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::setFrom() in /home3/smartlb1/public_html/mail_config.php:7
+Stack trace:
+#0 /home3/smartlb1/public_html/career_mail.php(18): require_once()
+#1 {main}
+  thrown in /home3/smartlb1/public_html/mail_config.php on line 7
+[20-Mar-2021 07:14:21 America/Boise] PHP Warning:  Creating default object from empty value in /home3/smartlb1/public_html/mail_config.php on line 3
+[20-Mar-2021 07:14:21 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::setFrom() in /home3/smartlb1/public_html/mail_config.php:7
+Stack trace:
+#0 /home3/smartlb1/public_html/career_mail.php(18): require_once()
+#1 {main}
+  thrown in /home3/smartlb1/public_html/mail_config.php on line 7
+[20-Mar-2021 07:17:19 America/Boise] PHP Warning:  Creating default object from empty value in /home3/smartlb1/public_html/mail_config.php on line 3
+[20-Mar-2021 07:17:19 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::setFrom() in /home3/smartlb1/public_html/mail_config.php:7
+Stack trace:
+#0 /home3/smartlb1/public_html/career_mail.php(20): include()
+#1 {main}
+  thrown in /home3/smartlb1/public_html/mail_config.php on line 7
+[20-Mar-2021 07:18:31 America/Boise] PHP Warning:  Creating default object from empty value in /home3/smartlb1/public_html/mail_config.php on line 3
+[20-Mar-2021 07:18:31 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::setFrom() in /home3/smartlb1/public_html/mail_config.php:7
+Stack trace:
+#0 /home3/smartlb1/public_html/career_mail.php(20): include()
+#1 {main}
+  thrown in /home3/smartlb1/public_html/mail_config.php on line 7
+[20-Mar-2021 07:25:45 America/Boise] PHP Fatal error:  Uncaught Error: Function name must be a string in /home3/smartlb1/public_html/mail_config.php:7
+Stack trace:
+#0 /home3/smartlb1/public_html/career_mail.php(17): include()
+#1 {main}
+  thrown in /home3/smartlb1/public_html/mail_config.php on line 7
+[20-Mar-2021 07:25:59 America/Boise] PHP Fatal error:  Uncaught Error: Function name must be a string in /home3/smartlb1/public_html/mail_config.php:7
+Stack trace:
+#0 /home3/smartlb1/public_html/career_mail.php(17): include()
+#1 {main}
+  thrown in /home3/smartlb1/public_html/mail_config.php on line 7
+[20-Mar-2021 07:26:35 America/Boise] PHP Fatal error:  Uncaught Error: Function name must be a string in /home3/smartlb1/public_html/mail_config.php:7
+Stack trace:
+#0 /home3/smartlb1/public_html/career_mail.php(17): include()
+#1 {main}
+  thrown in /home3/smartlb1/public_html/mail_config.php on line 7
+[20-Mar-2021 07:26:56 America/Boise] PHP Fatal error:  Uncaught Error: Function name must be a string in /home3/smartlb1/public_html/mail_config.php:7
+Stack trace:
+#0 /home3/smartlb1/public_html/career_mail.php(17): include()
+#1 {main}
+  thrown in /home3/smartlb1/public_html/mail_config.php on line 7
+[20-Mar-2021 07:28:18 America/Boise] PHP Parse error:  syntax error, unexpected ',' in /home3/smartlb1/public_html/mail_config.php on line 7
+[20-Mar-2021 07:34:15 America/Boise] PHP Parse error:  syntax error, unexpected ',' in /home3/smartlb1/public_html/mail_config.php on line 7
+[20-Mar-2021 07:56:13 America/Boise] PHP Parse error:  syntax error, unexpected ',' in /home3/smartlb1/public_html/mail_config.php on line 7
+[25-Mar-2021 02:47:40 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home3/smartlb1/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/bluehost/endurance-wp-plugin-updater/Updater.php on line 89
+[24-Apr-2021 07:02:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/wp-content/maintenance.php:1) in /home3/smartlb1/public_html/wp-content/maintenance.php on line 3
+[24-Apr-2021 07:02:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/wp-content/maintenance.php:1) in /home3/smartlb1/public_html/wp-content/maintenance.php on line 4
+[24-Apr-2021 07:02:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/wp-content/maintenance.php:1) in /home3/smartlb1/public_html/wp-content/maintenance.php on line 5
+[24-Apr-2021 07:02:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/wp-content/maintenance.php:1) in /home3/smartlb1/public_html/wp-content/maintenance.php on line 3
+[24-Apr-2021 07:02:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/wp-content/maintenance.php:1) in /home3/smartlb1/public_html/wp-content/maintenance.php on line 4
+[24-Apr-2021 07:02:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/wp-content/maintenance.php:1) in /home3/smartlb1/public_html/wp-content/maintenance.php on line 5
+[24-Apr-2021 07:02:32 UTC] PHP Warning:  require_once(/home3/smartlb1/public_html/wp-content/plugins/wpforms-lite/lite/wpforms-lite.php): failed to open stream: No such file or directory in /home3/smartlb1/public_html/wp-content/plugins/wpforms-lite/src/WPForms.php on line 161
+[24-Apr-2021 07:02:32 UTC] PHP Fatal error:  require_once(): Failed opening required '/home3/smartlb1/public_html/wp-content/plugins/wpforms-lite/lite/wpforms-lite.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/smartlb1/public_html/wp-content/plugins/wpforms-lite/src/WPForms.php on line 161
+[25-Apr-2021 13:08:19 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home3/smartlb1/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/bluehost/endurance-wp-plugin-updater/Updater.php on line 89
+[25-Apr-2021 13:08:19 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home3/smartlb1/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/bluehost/endurance-wp-plugin-updater/Updater.php on line 89
+[25-Apr-2021 13:08:19 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home3/smartlb1/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/bluehost/endurance-wp-plugin-updater/Updater.php on line 89
+[25-Apr-2021 13:08:19 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home3/smartlb1/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/bluehost/endurance-wp-plugin-updater/Updater.php on line 89
+[04-May-2021 02:50:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/wp-content/db-error.php:1) in /home3/smartlb1/public_html/wp-content/db-error.php on line 3
+[04-May-2021 02:50:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/wp-content/db-error.php:1) in /home3/smartlb1/public_html/wp-content/db-error.php on line 4
+[04-May-2021 02:50:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/wp-content/db-error.php:1) in /home3/smartlb1/public_html/wp-content/db-error.php on line 5
+[04-May-2021 02:50:52 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home3/smartlb1/public_html/wp-content/plugins/bluehost-wordpress-plugin/vendor/bluehost/endurance-wp-plugin-updater/Updater.php on line 89
+[12-May-2021 07:53:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/wp-content/db-error.php:1) in /home3/smartlb1/public_html/wp-content/db-error.php on line 3
+[12-May-2021 07:53:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/wp-content/db-error.php:1) in /home3/smartlb1/public_html/wp-content/db-error.php on line 4
+[12-May-2021 07:53:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/wp-content/db-error.php:1) in /home3/smartlb1/public_html/wp-content/db-error.php on line 5
+[12-May-2021 07:53:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/wp-content/maintenance.php:1) in /home3/smartlb1/public_html/wp-content/maintenance.php on line 3
+[12-May-2021 07:53:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/wp-content/maintenance.php:1) in /home3/smartlb1/public_html/wp-content/maintenance.php on line 4
+[12-May-2021 07:53:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/smartlb1/public_html/wp-content/maintenance.php:1) in /home3/smartlb1/public_html/wp-content/maintenance.php on line 5

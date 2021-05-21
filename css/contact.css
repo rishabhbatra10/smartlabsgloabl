@@ -1,0 +1,140 @@
+/*******************************/
+/***** Contact banner CSS *******/
+/*******************************/
+
+.section-contact-banner {
+    width: 100%;
+    height: 500px;
+    background-image: url('../img/contact/Rectangle 20 (1).png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media (min-width: 481px) and (max-width: 992px) {
+	.section-contact-banner{
+		height: 300px;
+	}
+}
+@media only screen and (max-width:480px) {
+	.section-contact-banner{
+		height: 230px;
+	}
+}
+.section-contact{
+	padding-top: 40px;
+	padding-bottom: 40px;
+	background-color: #f4f9f7;
+}
+.section-contact .section-contact-headers{
+	line-height: 24px;
+}
+.section-contact .section-contact-headers .section-header{
+	text-align: center;
+}
+.section-contact .section-contact-headers .section-subheader{
+	font-weight: 300;
+    text-align: center;
+}
+@media only screen and (max-width: 1018px){
+	.section-career .section-career-headers .section-subheader{
+	font-size: 18px;
+	line-height: 25px;
+	}
+}
+
+.section-contact .section-contact-container{
+	margin: 40px auto;
+	background-color: #fff;
+	box-shadow: 0px 0px 9px 0px #ececec;
+	max-width: 1027px;
+}
+.section-contact .section-contact-container .contact-left{
+	margin-left: 40px;
+	margin-right: 0px;
+}
+.section-contact .section-contact-container .contact-right{
+	margin-left: 0px;
+	margin-right: 40px;
+}
+
+.contact-header{
+	margin-top: 20px;
+	margin-bottom: 15px;
+}
+
+.contact-icon{
+	font-size: 16px;
+	line-height: 20px;
+	color: #00acff;
+}
+.contact-content{
+	font-size: 14px;
+	line-height: 20px;
+}
+.callus{
+	margin-bottom: 20px;
+}
+.contact-map{
+	font-size: 16px;
+	line-height: 20px;
+	color: #00acff;
+	padding-bottom: 10px;
+}
+.my-submit-btn{
+	text-align: right;	
+	margin-top: 33px;
+
+}
+.my-btn2{
+   background: linear-gradient(98.99deg, #00ACFF -11.1%, #BE00FF 113.59%);
+   color: #fff;
+   border-radius: 4px;
+   font-size: 16px;
+   font-weight: 700;
+   width: 168px;
+   padding-top: 8px;
+   padding-bottom: 8px;
+}
+
+@media only screen and (max-width: 767px) {
+    .my-submit-btn{
+		margin-top: 10px;
+	}
+}
+
+.my-map{
+	border:0;
+	width: 85%;
+}
+
+@media only screen and (max-width: 992px) {
+    .my-map{
+		width: 100%;
+	}
+	.section-contact .section-contact-container .contact-left{
+		margin-right: 40px;
+	}
+	.section-contact .section-contact-container .contact-right{
+		margin-left: 40px;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+    .section-contact .section-contact-container{
+		margin-right: 0px;
+		margin-left: 0px;
+	}
+}
+
+.form-group label{
+	font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    margin-bottom: 2px !important;
+}
+
+select, input, textarea{
+	border: 1px solid #00ACFF !important;
+	border-radius: 4px;
+}
